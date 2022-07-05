@@ -1,0 +1,1184 @@
+- id: 5.1.1
+  name: Policies for information security
+  text: control set policy sec defin approv man publ commun employ relev extern party
+    lmplementation puid level org defin sec policy approv man set org sapproach man
+    sec object sec policy address requir cre busy strategy reg legisl contract cur
+    project sec threat environ sec policy stat definit sec object principl guid act
+    rel sec assign spec respons sec man defin rol process handl devy exceiv level
+    sec policy support top spec policy mand impl sec control typ structured address
+    target org cov top exampl policy top includ access control claus class handl phys
+    environ sec claus us ory top
+- id: 5.1.2
+  name: Review of the policies for information security
+  text: control policy sec review plan interv occ ens continu suit adequ effect impl
+    puid policy own approv man respons develop review evalu policy review includ assess
+    opportun improv org policy approach man sec respons org environ busy circumst
+    leg condit techn environ review policy sec man review account man approv rev policy
+- id: 6.1.1
+  name: Information security roles and responsibilities
+  text: control sec respons defin alloc impl puid alloc sec respons sec policy respons
+    protect individ asset carry spec sec process ident respons sec risk man act acceiv
+    resid risk defin respons suppl detail guid spec sit process facil loc respons
+    protect asset carry spec sec process defin individ alloc sec respons deleg sec
+    task remain account determin deleg task correct perform individ respons stat asset
+    sec process ident defin ent respons asset sec process assign detail respons docu
+    auth level defin docu fulfil respons sec appoint individ compet opportun develop
+    coordin oversight sec aspect supply rel ident docu org appoint sec man respons
+    develop impl sec support id control respons resourc impl control remain individ
+    man common pract appoint own asset respons day day protect
+- id: 6.1.2
+  name: Segregation of duties
+  text: control conflict duty respons segreg reduc opportun unauth unint mod misus
+    org asset impl euid car singl person access mod asset auth detect in ev sep auth
+    poss collud consid design control org segreg duty difficult achiev principl apply
+    pract difficult segreg control monit act audit trail man supervid consid segreg
+    duty method reduc risk accid delib misus org asset
+- id: 6.1.3
+  name: Contact with authorities
+  text: control contact relev auth maintain impl puid org proc auth law enforc reg
+    body superv auth contact ident sec incid report tim man suspect law brok org attack
+    internet auth act attack sourc maintain contact requir support sec incid man claus
+    busy continu cont plan process claus contact reg body anticip prep upcom law reg
+    impl org contact auth includ util emerg serv elect supply heal saf depart connect
+    busy continu telecommun provid connect rout avail wat supply connect cool facil
+    equip
+- id: 6.1.4
+  name: Contact with special interest groups
+  text: control contact spec spec sec forum profess assocy maintain impl euid memb
+    spec forum consid improv knowledg pract stay relev sec ens understand sec environ
+    cur complet receiv warn alert adv patch pertain attack vuln gain access spec sec
+    adv shar exchang technolog produc threats vuln provid suit liaison deal sec incid
+    claus shar agr est improv coop coordin sec issu agr ident requir protect confid
+- id: 6.1.5
+  name: Information security in project management
+  text: control sec address project man typ project impl puid lnformation sec integr
+    org project man method ens sec risk ident address project apply project charact
+    project cor busy process facil man support process project man method requir sec
+    object includ project object sec risk assess conduc stag project ident control
+    sec phas apply project methodolog lnformation sec imply address review regul project
+    respons sec defin alloc rol defin project man method mobl dev telework object
+    ens sec telework mobl dev
+- id: 6.2.1
+  name: Mobile device policy
+  text: control policy support sec meas man risk introduc mobl dev impl puid mobl
+    dev spec car ens busy comprom mobl dev policy account risk mobl dev unprotect
+    environ mobl dev policy reg mobl dev requir phys protect restrict softw instal
+    requir mobl dev softw vert apply patch restrict connect serv access control cryptograph
+    techn malw protect remot dis eras lockout backup us serv ap car mobl dev publ
+    meet unprotect protect avoid unauth access disclos stor process dev cryptograph
+    techn claus enforc secret auth mobl dev phys protect theft left car form transport
+    hotel conf cent meet spec proc account leg ins sec requir org est theft loss mobl
+    dev dev carry sensit crit busy left unattend phys lock spec lock sec dev train
+    arrang personnel mobl dev rais aw addit risk control impl mobl dev policy priv
+    own mobl dev policy sec meas sep priv busy dev includ softw support sep protect
+    busy dat priv dev provid access busy us sign us agr acknowledg duty phys protect
+    softw upd waiv own busy dat allow remot wip dat org theft loss dev auth serv policy
+    account priv legisl mobl dev wireless connect typ network connect diff consid
+    ident control typ diff wireless sec protocol im weak stor mobl dev limit network
+    bandwid mobl dev connect tim backup scheduled mobl dev shar common funct network
+    internet access mail fil handl fix dev sec control mobl dev consist fix dev address
+    threats rais us org prem
+- id: 6.2.2
+  name: Teleworking
+  text: control policy support sec meas impl protect access process stor telework
+    sit impl guid org allow telework act issu policy defin condit restrict telework
+    deem appl allow law mat consid ex phys sec telework account phys sec build loc
+    environ propos phys telework environ commun sec requir account remot access org
+    intern system sensit access pass commun link sensit intern provid virt desktop
+    access prev process stor priv own equip threat unauth access resourc person accommod
+    famy friend network requir restrict config wireless network serv policy proc prev
+    disput right intellect property develop priv own equip access priv own equip ver
+    sec machin ord investig prev legisl softw licens agr org liabl licens cli softw
+    workst own priv employ extern party us malw protect firewal requir guidelin arrang
+    consid includ provid suit equip stor furnit telework act priv own equip control
+    org allow definit permit hour class held intern system serv telework auth access
+    provid suit commun equip includ method sec remot access phys sec rul guid famy
+    visit access equip provid hardw softw support maint provid insurances proc backup
+    busy continu audit sec monit revoc auth access right return equip telework act
+    termin telework ref form ofwork off includ tradit environ refer telecommut flex
+    workplac remot virt environ
+- id: 7.1.1
+  name: Screening
+  text: control background ver check candid employ carry relev law reg eth proport
+    busy requir class access perceiv risk impl euid ver account relev priv protect
+    person ident employ bas legisl permit includ avail satisfact charact ref busy
+    person ver complet acc appl curricul vita confirm claim academ profess qual independ
+    id ver passport docu detail ver credit review review crimin record individ hir
+    spec sec rol org candid compet perform sec rol trust rol rol crit org job init
+    appoint promot involv person access process facil handl confid fin high confid
+    org detail ver proc defin criter limit ver review elig screen peopl ver review
+    carry screening process ens contract agr org contract respons conduc screening
+    not proc screening complet doubt concern candid consid posit org collect handl
+    legisl ex relev jurisdict depend appl legisl candid inform screening act
+- id: 7.1.2
+  name: Terms and conditions of employment
+  text: control contract agr employ contract org respons sec le ent dant contract
+    oblig employ contract reflect org policy sec addit clar stat employ contract access
+    confid sign confid disclos agr pri access process facil employ contract leg respons
+    right copyright law dat protect legisl respons class man org asset process facil
+    serv handl employ contract claus respons employ contract handl receiv company
+    extern party act employ contract disregard org sec requir sec rol respons commun
+    job candid pre employ process org ens employ contract agr term condit sec nat
+    ext access org asset system serv respons contain term condit employ continu defin
+    period employ cod conduc employ contract sec respons confid dat protect eth org
+    equip facil reput pract expect org extern party contract requir ent contract arrang
+    behalf contract individ employ object ens employ contract aw fulfil sec respons
+- id: 7.2.1
+  name: Management responsibilities
+  text: control man requir employ contract apply sec est policy proc org lmplementation
+    guid man respons includ ens employ contract prop brief sec rol respons pri grant
+    access confid system guidelin sec expect rol org mot fulfil sec policy org achiev
+    level aw sec relev rol respons org conform term condit employ includ org sec policy
+    method continu skil qual educ regul bas
+- id: 7.2.2
+  name: Information security awareness, education and training
+  text: control employ org relev contract receiv aw educ train regul upd org policy
+    proc relev job funct impl puid sec aw program aim employ relev contract aw respons
+    sec respons discharg sec aw program est org sec policy relev proc consid org protect
+    control impl protect aw program includ aw rais act campaign sec day issu booklet
+    newslet aw program plan consid employ rol org relev org expect aw contract act
+    aw program scheduled tim pref regul act rep cov employ contract aw program upd
+    regul stay org policy proc built lesson learnt sec incid aw train perform requir
+    org sec aw program aw train delivery med includ classroom bas dist learn bas pac
+    sec educ train cov aspect stat man commit sec org famili comply appl sec rul oblig
+    defin policy standard law reg contract agr person account act inact respons sec
+    protect belong org extern party bas sec proc sec incid report baselin control
+    password sec malw control desk contact resourc addit adv sec mat includ sec educ
+    train mat sec educ train period init educ train apply transf posit rol sec requir
+    start rol act org develop educ train program conduc educ train effect program
+    org sec policy relev proc consid org protect control impl protect program form
+    educ train lect study compos aw program foc employ understand aim sec pot impact
+    posit neg org behavio aw educ train conduc collab train act sec train aw educ
+    train act suit relev individ rol respons skil assess employ understand conduc
+    aw educ train knowledg transf
+- id: 7.2.3
+  name: Disciplinary process
+  text: control form commun disciplin process act employ commit sec breach impl guid
+    disciplin process com pri ver sec breach occur form disciplin process ens correct
+    fair tre employ suspect commit breach sec form disciplin process provid gradu
+    respons tak consid fact nat grav breach impact busy rep off viol prop train relev
+    legisl busy contract fact requir disciplin process deter prev employ viol org
+    sec policy proc sec breach delib breach requir act disciplin process mot int posit
+    sanct defin remark behavio sec termin chang employ object protect org process
+    chang termin employ
+- id: 7.3.1
+  name: Termination or change of employment responsibilities Control
+  text: sec respons duty remain valid termin chang employ defin commun employ contract
+    enforc impl euid commun termin respons includ sec requir leg respons respons contain
+    confid agr term condit employ continu defin period employ contract employ respons
+    duty valid termin employ contain employ contract term condit employ respons employ
+    man termin cur respons employ combin in respons employ hum resourc funct respons
+    termin process superv man person leav man sec aspect relev proc contract extern
+    party termin process undertak extern party contract org extern party inform employ
+    custom contract personnel op arrang
+- id: 8.1.1
+  name: Inventory of assets Control
+  text: asset process facil ident inv asset drawn maintain impl euid org ident asset
+    relev lifecyc docu lifecyc includ cre process stor transmit delet destruct docu
+    maintain ded ex inv asset inv acc consist align inv foreach ident asset own asset
+    assign class ident inv asset ens effect protect tak requir purpos heal saf ins
+    fin asset man reason org ftiz tiofl ident asset process compil inv asset
+- id: 8.1.2
+  name: Ownership of assets Control
+  text: asset maintain inv own impl euid individ ent approv man respons asset lifecyc
+    qual assign asset own process ens tim assign asset own impl own assign asset cre
+    asset transfer org asset own respons prop man asset asset lifecyc asset own ens
+    asset inv ens asset appropry class protect defin period review access restrict
+    class asset account appl access control policy ens prop handl asset delet destroy
+    ident own individ ent approv man respons control lifecyc asset ident own property
+    right asset routin task deleg custod asset dai bas respons remain own complex
+    system design asset provid serv own serv account delivery serv includ op asset
+- id: 8.1.3
+  name: Acceptable use of assets
+  text: control rul acceiv asset process facil ident docu impl impl puid employ extern
+    party us access org asset aw sec requir org asset process facil resourc respons
+    process resourc carry respons
+- id: 8.1.4
+  name: Return of assets
+  text: control employ extern party us return org asset possess termin employ contract
+    agr impl guid termin process form includ return issu phys electron asset own entrust
+    org employ extern party us purchas org equip person equip proc ens relev transfer
+    org sec eras equip employ extern party us knowledg ongo op docu transfer org not
+    period termin org control unauth cop relev intellect property termin employ contract
+    class object ens receiv level protect org
+- id: 8.2.1
+  name: Classification of information
+  text: control class term leg requir crit sensit unauth disclos mod impl guid class
+    protect control account busy shar restrict leg requir asset class conform class
+    stor process handl protect asset own asset account class class scheme includ conv
+    class criter review class tim level protect scheme assess analys confid integr
+    avail requir consid scheme align access control policy level sens context class
+    scheme sapply scheme consist org class asset common understand protect requir
+    apply protect class includ org process consist coh org class asset depend sensit
+    crit org term confid integr avail class upd sensit crit lif cyc class peopl deal
+    cont ind handl protect cre protect sec proc apply facilit approach reduc risk
+    assess custom design control lnformation ceas sensit crit period tim publ aspect
+    account class lead impl unnecess control addit expens cont class endang achiev
+    busy object confid class scheme bas level disclos harm disclos min embarrass min
+    op inconveny disclos short term impact op tact object disclos impact term strategic
+    object surv org risk
+- id: 8.2.2
+  name: Labelling of information
+  text: control set proc label develop impl class scheme org impl puid proc label
+    cov asset phys electron form label reflect class scheme est label easy recogn
+    proc guid label attach consid access asset handl depend typ med proc defin label
+    label confid reduc workload employ contract aw label proc output system class
+    sensit crit carry class label label class key requir shar arrang phys label metadat
+    common form label label asset neg effect class asset easy ident ste insid extern
+    attack
+- id: 8.2.3
+  name: Handling of assets
+  text: control proc handl asset develop impl class scheme org impl suid proc drawn
+    handl process stor commun consist class item consid access restrict support protect
+    requir level class maint form record auth recipy asset protect temp perm cop level
+    consist protect origin stor asset manufact spec mark cop med at auth recipy class
+    scheme org equ schemes org nam level addit mov org vary class depend context org
+    class schemes id agr org includ shar includ proc ident class interpret class label
+    org med handl object prev unauth disclos mod remov destruct stor med
+- id: 8.3.1
+  name: Management of removable media Control
+  text: proc impl man remov med class scheme org impl euid guidelin man remov med
+    consid requir cont us med remov org unrecov pract auth requir med remov org record
+    remov maintain audit trail med stor saf sec environ manufact spec dat confid integr
+    consid cryptograph techn protect dat remov med mitig risk med degrad stor dat
+    dat transfer fresh med unread multipl cop valu dat stor sep med reduc risk coincid
+    dat dam loss reg remov med consid limit opportun dat loss remov med driv en busy
+    reason remov med transf med monit proc auth level docu
+- id: 8.3.2
+  name: Disposal of media
+  text: control med dispos sec requir form proc impl puid form proc sec dispos med
+    est minim risk confid leak unauth person proc sec dispos med confid proport sensit
+    item consid med confid stor dispos sec incin shredding eras dat apply org proc
+    ident item requir sec dispos easy arrang med item collect dispos sec attempt sep
+    sensit item org off collect dispos serv med car select suit extern party adequ
+    control expery dispos sensit item log maintain audit trail accum med dispos consid
+    aggreg quant sensit sensit dam dev sensit dat requir risk assess determin item
+    phys destroy repair discard
+- id: 8.3.3
+  name: Physical media transfer
+  text: control med protect unauth access misus corrupt transport impl puid guidelin
+    consid protect med transport rely transport coury list auth coury agree man proc
+    ver id coury develop pack sufficy protect cont phys dam transit manufact spec
+    protect environ fact reduc med rest effect expos heat moist electromagnet field
+    log ident cont med protect apply record tim transf transit custod receipt destin
+    vuln unauth access misus corrupt phys transport inst send med post serv coury
+    control med includ pap docu confid med encrypt addit phys protect med consid
+- id: 9.1.1
+  name: Access control policy
+  text: control access control policy est docu review bas busy sec requir impl euid
+    asset own determin access control rul access right restrict spec us rol asset
+    strictness control reflect sec risk access control log phys claus consid us serv
+    provid stat busy requir met access control policy account sec requir busy apply
+    policy dissemin auth principl sec level class consist access right class policy
+    system network relev legisl contract oblig limit access dat serv man access right
+    distribut network environ recogn typ connect segreg access control rol access
+    request access auth access admin requir form auth access request requir period
+    review access right remov access right arch record ev man us id secret auth rol
+    privileg access car access control rul est rul bas prem forbid expresslypermit
+    weak rul permit express forbid label in autom process facil in discret us us permit
+    in autom in admin rul requir spec approv enact access control rul support form
+    proc defin respons rol bas access control approach org link access right busy
+    rol frequ principl direct access control policy grant access perform task task
+    rol access profil grant access process facil equip apply proc perform task job
+    rol
+- id: 9.1.2
+  name: Access to networks and network services
+  text: control us access network network serv auth impl puid policy form network
+    network serv policy cov network network serv allow access auth proc determin allow
+    access network network serv man control proc protect access network connect network
+    serv access network network serv vpn wireless network us auth requir access network
+    serv monit network serv policy network serv consist org access control policy
+    unauth insec connect network serv affect org control network connect sensit crit
+    busy apply us risk loc publ extern org sec man control us access man object ens
+    auth us access prev unauth access system ser
+- id: 9.2.1
+  name: User registration and de-registration
+  text: control form us reg reg process impl en assign access right impl euid process
+    man us id includ un us id en us link held respons act shar id permit busy op reason
+    approv docu dis remov us id us left org period ident remov dis redund us id ens
+    redund us id issu us provid revok access process facil step proc assign en revok
+    us provid revok access right us
+- id: 9.2.2
+  name: User access provisioning
+  text: control form us access provid process impl assign revok access right us typ
+    system serv impl guid provid process assign revok access right grant us id includ
+    obtain auth own serv serv control sep approv access right man ver level access
+    grant access policy consist requir segreg duty ens access right act serv provid
+    auth proc complet maintain cent record access right grant us access system serv
+    adapt access right us chang rol job remov block access right us left org period
+    review access right own system serv
+- id: 9.2.3
+  name: Management of privileged access rights
+  text: control alloc privileg access right restrict control lmplementation puid alloc
+    privileg access right control form auth process relev access control policy control
+    step consid privileg access right process op databas man apply us alloc ident
+    privileg access right alloc us bas ev ev bas access control policy bas minim requir
+    funct rol auth process record privileg alloc maintain privileg access right grant
+    auth process complet requir expiry privileg access right defin privileg access
+    right assign us regul busy act regul busy act perform privileg compet us privileg
+    access right review regul ver duty spec proc est maintain avoid unauth gen admin
+    us id system config cap gen admin us id confid secret auth maintain shar chang
+    password frequ privileg us leav job commun privileg us mech lnappropry admin privileg
+    feat facil en us overrid apply control maj contribut fact fail breach system
+- id: 9.2.4
+  name: Management of secret authentication information of users
+  text: control alloc secret auth control form man process ei nle tatiuod process
+    includ requir us requir sign stat person secret auth confid shar secret auth sol
+    sign stat includ term condit employ us requir maintain secret auth init sec temp
+    secret auth forc chang proc est ver id us pri provid replac temp secret auth temp
+    secret auth us sec man extern party unprotect electron mail mess avoid temp secret
+    auth un individ guess us acknowledg receipt secret auth default vend secret auth
+    alt instal system softw password common typ secret auth common ver us id typ secret
+    auth cryptograph dat stor hardw tok smart card produc auth cod
+- id: 9.2.5
+  name: Review of user access rights
+  text: control asset own review us access right regul interv impl guid review access
+    right us access right review regul interv promot demot termin employ claus us
+    access right review alloc mov rol org auth privileg access right review frequ
+    interv privileg alloc check regul interv ens unauth privileg privileg account
+    log period review control compens weak execut control
+- id: 9.2.6
+  name: Removal or adjustment of access rights
+  text: control access right employ extern party us process facil remov termin employ
+    contract agr adjust chang lmplementation puid termin access right individ asset
+    process facil serv remov suspend determin remov access right employ reflect remov
+    access right approv employ access right remov adjust includ phys log access remov
+    adjust remov revoc replac id card process facil subscrib docu ident access right
+    employ contract reflect remov adjust access right depart employ extern party us
+    password us id remain act chang termin chang employ contract agr access right
+    asset process facil reduc remov employ termin depend evalu risk fact termin chang
+    in employ extern party us man reason termin cur respons employ extern party us
+    us asset access circumst access right alloc bas peopl depart employ extern party
+    us lds circumst depart individ remov access list arrang adv employ extern party
+    us involv shar person depart man in termin disgruntl employ extern party us delib
+    corrupt sabot process facil person resign dismiss tempt collect fut us respons
+    object us account safeguard auth
+- id: 9.3.1
+  name: Use of secret authentication information
+  text: control us requir follow org pract secret auth lmplementation puid us adv
+    secret auth confid ens divulg party includ peopl auth avoid keep record pap softw
+    fil hand held dev secret auth stor sec method stor approv password vault chang
+    secretauth ind comprom password secret auth select qual password sufficy minim
+- id: 9.4.1
+  name: Information access restriction
+  text: control access apply funct restrict access control policy impl euid restrict
+    access bas individ busy apply requir defin access control policy consid support
+    access restrict requir provid men control access apply funct control dat access
+    us control access right us read writ delet execut control access right apply limit
+    contain output provid phys log access control isol sensit apply apply dat system
+- id: 9.4.2
+  name: Secure log-on procedures
+  text: control requir access control policy access system apply control sec log proc
+    impl puid suit auth techn chos substanty claim id us strong auth id ver requir
+    auth method altern password cryptograph smart card tok biomet proc log apply design
+    minim opportun unauth access log proc disclos minim apply avoid provid unauth
+    us unnecess assist log proc display apply ident log process complet display not
+    warn access auth us provid mess log proc aid unauth us valid log complet input
+    dat er condit ar dat correct incorrect protect brut forc log attempt log unsuccess
+    success attempt rais sec ev pot attempt success breach log control detect display
+    complet success log
+- id: 9.4.3
+  name: Password management system
+  text: control password man system interact ens qual password impl guid password
+    man enforc individ us id password maintain account us select chang password includ
+    confirm proc input er enforc cho qual password forc us chang password log enforc
+    regul password maintain record password prev display password screen ent stor
+    password fil sep apply dat stor transmit password protect form apply requir us
+    password assign independ auth guid apply password select maintain us
+- id: 9.4.4
+  name: Use of privileged utility programs
+  text: control util program cap overrid apply control restrict tight control impl
+    guid guidelin util program cap overrid apply control consid id auth auth proc
+    util program segreg util program apply softw limit util program minim pract trust
+    auth us auth hoc util program limit avail util program dur auth chang log util
+    program defin docu auth level util program remov dis unnecess util program util
+    program us access apply system segreg duty requir instal util program cap overrid
+    apply control
+- id: 9.4.5
+  name: Access control to program source code Control
+  text: access program sourc cod restrict impl puid access program sourc cod item
+    design spec ver plan valid plan strictly control prev introduc unauth funct avoid
+    unint maintain confid valu intellect property program sourc cod achiev control
+    cent stor cod pref program sourc libr guidelin consid control access program sourc
+    libr reduc pot corrupt program program sourc libr held op system program sourc
+    cod program sourc libr man est proc support personnel unrestrict access program
+    sourc libr upd program sourc libr item issu program sourc program perform auth
+    receiv program list held sec environ audit log maintain access program sourc libr
+    maint cop program sourc libr subject strict chang control proc lf program sourc
+    cod intend publ addit control ass integr digit sign consid
+- id: 10.1.1
+  name: Policy on the use of cryptographic controls
+  text: control policy cryptograph control protect develop impl impl euid develop
+    cryptograph policy consid man approach cryptograph control org includ principl
+    busy protect bas risk assess requir level protect ident account typ strength qual
+    encrypt algorithm requir encrypt protect transport mobl remov med dev commun lin
+    approach key man includ method deal protect cryptograph recovery encrypt lost
+    comprom dam rol respons respons
+- id: 10.1.2
+  name: Key management
+  text: control policy protect lifetim cryptograph develop impl lifecyc impl guid
+    policy includ requir man cryptograph lifecyc includ gen stor arch retriev distribut
+    retir destroy cryptograph algorithm key length us pract select pract key man requir
+    sec process gen stor arch retriev distribut retir destroy cryptograph cryptograph
+    protect mod loss addit secret priv protect unauth disclos equip gen stor arch
+    phys protect key man bas agree set standard proc sec method gen cryptograph system
+    apply issu obtain publ key cert distribut intend ent includ act receiv stor includ
+    auth us access chang upd includ rul chang deal comprom revok includ withdrawn
+    deact comprom us leav org arch recov lost corrupt arch destroy log audit key man
+    act reduc lik improp act deact dat defin period tim defin key man policy addit
+    sec man secret priv auth publ consid auth process publ key cert issu cert auth
+    recogn org suit control proc provid requir degr trust cont serv level agr contract
+    extern supply cryptograph serv cert auth cov issu liabl rely serv respons tim
+    provid serv man cryptograph ess effect cryptograph techn cryptograph techn protect
+    cryptograph proc consid handl leg request access cryptograph encrypt requir unencrypt
+    form evid court
+- id: 11.1.1
+  name: Physical security perimeter
+  text: control sec perimet defin protect sensit crit process facil impl euid guidelin
+    consid impl phys sec perimet sec perimet defin sit strength perimet depend sec
+    requir asset perimet risk assess perimet build process facil phys sound gap perimet
+    break easy occ extery roof wal flo solid construct extern door suit protect unauth
+    access control mech bar alarm lock door window lock unattend extern protect consid
+    window ground level man receiv control phys access build access sit build restrict
+    auth personnel phys barry appl built prev unauth phys access environ contamin
+    door sec perimet alarm monit test conjunct wal est requir level resist suit reg
+    nat intern standard op loc cod failsaf man suit intrud detect system instal nat
+    reg intern standard regul test cov extern door access window unoccupy alarm tim
+    cov commun process facil man org phys sep man extern party phys protect achiev
+    cre phys barry org prem process facil multipl barry addit protect fail singl barry
+    sec comprom sec lock off surround continu intern phys sec barry addit barry perimet
+    control phys access sec requir sec perimet spec at phys access sec build hold
+    asset multipl org apply phys control sec adapt techn econom circumst org set risk
+    assess
+- id: 11.1.2
+  name: Physical entry controls
+  text: control sec protect entry control ens auth personnel allow access ent dant
+    guidelin consid tim entry depart visit record visit superv access approv grant
+    access spec auth purpos issu instruct sec requir emerg proc id visit auth access
+    confid process stor restrict auth individ impl access control impl fact auth mech
+    access card secret pin phys logbook electron audit trail access sec maintain monit
+    employ contract extern party requir wear form vis id not sec personnel encount
+    unescort visit wear vis id extern party support serv personnel grant restrict
+    access sec confid process facil requir access auth monit access right sec regul
+    review upd revok
+- id: 11.1.3
+  name: Securing offices, rooms and facilities
+  text: control phys sec off facil design apply impl puid guidelin consid sec off
+    facil key facil sit avoid access publ appl build unobtrud minim ind purpos obvy
+    sign build ident pres process act facil config prev confid act vis aud electromagnet
+    shield consid direct intern telephon book ident loc confid process facil access
+    unauth
+- id: 11.1.4
+  name: Protecting against external and environmental threats
+  text: control phys protect nat disast malicy attack accid design apply lmplementation
+    euid spec adv avoid dam flood earthquak explod civil unrest form nat disast
+- id: 11.1.5
+  name: Working in secure areas
+  text: control proc sec design apply impl euid guidelin consid personnel aw ex act
+    sec bas unsuperv sec avoid saf reason prev opportun malicy act vac sec phys lock
+    period review photograph video audio record equip camera mobl dev allow auth arrang
+    sec includ control employ extern party us sec cov act sec
+- id: 11.1.6
+  name: Delivery and loading areas
+  text: control access delivery load unauth person ent prem control isol process facil
+    avoid unauth access impl euid guidelin consid access delivery load build restrict
+    ident auth personnel delivery load design supply load unload delivery personnel
+    gain access build extern door delivery load sec intern door incom mat inspect
+    examin explod chem hazard mat mov delivery load incom mat reg asset man proc claus
+    entry incom outgo ship phys segreg incom mat inspect evid tamp en rout tamp discov
+    report sec personnel equip object prev loss dam theft comprom asset interrupt
+    organiz tion op
+- id: 11.2.1
+  name: Equipment siting and protection
+  text: control equip sit protect reduc risk environ threats hazard opportun unauth
+    access impl puid guidelin consid protect equip equip sit minim unnecess access
+    process facil handl sensit dat posit car reduc risk view unauth person stor facil
+    sec avoid unauth access item requir spec protect safeguard reduc level protect
+    requir control minim risk pot phys environ threats theft explod smok wat wat supply
+    fail dust vibr chem effect elect supply interf commun interf electromagnet rady
+    vand guidelin eat drink smok proxim process facil est environ condit temp humid
+    monit condit advers affect op process facil lightn protect apply build lightn
+    protect filt fit incom pow commun lin spec protect method keyboard membr consid
+    equip indust environ equip process confid protect minim risk leak electromagnet
+    em
+- id: 11.2.2
+  name: Supporting utilities
+  text: control equip protect pow fail disrupt caus fail support util impl euid support
+    util elect telecommun wat supply gas sew ventil air condit conform equip manufact
+    spec loc leg requir appra regul capac meet busy grow interact support util inspect
+    test regul ens prop funct alarm detect malfunct multipl fee divers phys rout emerg
+    light commun emerg switch valv cut pow wat gas util loc emerg exit equip addit
+    redund network connect multipl rout util provid
+- id: 11.2.3
+  name: Cabling security
+  text: control pow telecommun cabl carry dat support serv protect interceiv interf
+    dam impl euid guidelin cabl sec consid pow telecommun lin process facil underground
+    subject adequ altern protect pow cabl segreg commun cabl prev interf sensit crit
+    system control includ
+- id: 11.2.4
+  name: Equipment maintenance
+  text: control equip correct maintain ens continu avail integr impl euid guidelin
+    equip maint consid equip maintain supply recommend serv interv spec auth maint
+    personnel carry repair serv equip record suspect act fault prev correctivemaint
+    control impl equip scheduled maint account maint perform personnel extern org
+    confid clear equip maint personnel clear maint requir impos ins policy comply
+    put equip op maint inspect ens equip tamp malfunct
+- id: 11.2.5
+  name: Removal of assets
+  text: control equip softw pri auth lmplementation puid guidelin consid employ extern
+    party us auth permit remov asset ident tim limit asset remov set return ver comply
+    asset record remov record return id rol affy handl asset docu docu return equip
+    softw spot check undertak detect unauth remov asset perform detect unauth record
+    dev weapon prev entry exit spot check carry relev legisl reg lndividuals aw spot
+    check carry ver perform auth leg reg requir
+- id: 11.2.6
+  name: Security of equipment and assets off-premises
+  text: control sec apply asset account risk org prem impl suid stor process equip
+    org prem auth man apply equip own org equip own priv behalf org guidelin consid
+    protect equip equip med prem left unattend publ manufact instruct protect equip
+    observ tim protect expos strong electromagnet field control prem loc telework
+    temp sit determin risk assess suit control apply lock fil cabinet desk policy
+    access control comput sec commun prem equip transfer individ extern party log
+    maintain defin chain custody equip includ nam org respons equip risk dam theft
+    eavesdrop vary consid loc account determin control stor process equip includ form
+    person comput org mobl phon smart card pap form held transport norm loc aspect
+    protect mobl equip avoid risk disco employ restrict port equip
+- id: 11.2.7
+  name: Secure disposal or re-use of equipment Control
+  text: item equip stor med ver ens sensit dat licens softw remov sec overwrit pri
+    dispos ei nle tatiuod equip ver ens stor med contain pri dispos stor med confid
+    copyright phys destroy destroy delet overwrit techn origin retriev standard delet
+    form funct dam equip stor med requir risk assess determin item phys destroy repair
+    discard comprom careless dispos equip addit sec disk eras disk encrypt reduc risk
+    disclos confid equip dispos redeploy encrypt process strong cov entir disk includ
+    slack spac swap fil encrypt resist brut forc attack encrypt confid stor disk adv
+    encrypt claus techn sec overwrit stor med stor med technolog overwrit tool review
+    appl technolog stor med
+- id: 11.2.8
+  name: Unattended user equipment Control
+  text: us ens unattend equip protect impl euid us aw sec requir proc protect unattend
+    equip respons impl protect us adv termin act sess fin sec lock mech password protect
+    screen sav log apply network serv sec comput mobl dev unauth key lock equ control
+    password access
+- id: 11.2.9
+  name: Clear desk and clear screen policy Control
+  text: desk policy pap remov stor med screen policy process facil lmplementation
+    puid desk screen policy account class leg contract requir risk cult aspect org
+    guidelin consid sensit crit busy pap electron stor med lock id saf cabinet form
+    sec furnit requir off vac comput termin left log protect screen keyboard lock
+    mech control password tok us auth mech unattend protect key lock password control
+    unauth photocop reproduc technolog scan digit camera prev med sensit class remov
+    print desk screen policy reduc risk unauth access loss dam norm hour saf form
+    sec stor facil protect stor disast earthquak flood explod print pin cod funct
+    origin print out stand print
+- id: 12.1.1
+  name: Documented operating procedures Control
+  text: op proc docu us impl puid docu proc prep op act process commun facil start
+    clos proc backup equip maint med handl mail handl man saf op proc op instruct
+    includ instal config system process handl autom man backup scheduling requir includ
+    interdepend system earliest job start job complet tim instruct handl er exceiv
+    condit job execut includ restrict util support esc contact includ extern support
+    contact ev unexpect op techn difficul spec output med handl instruct spec stationery
+    man confid output includ proc sec dispos output fail job restart recovery proc
+    ev fail man audit trail log monit proc op proc docu proc act tre form docu auth
+    man techn feas system man consist proc tool util
+- id: 12.1.2
+  name: Change management
+  text: control org busy process process facil system affect sec control impl euid
+    item consid id record plan test assess pot impact includ sec impact form approv
+    proc propos ver sec requir met commun chang detail relev person fal proc includ
+    proc respons abort recov unsuccess unforeseen ev provid emerg chang process en
+    quick control impl resolv incid lxl form man respons proc ens satisfact control
+    audit log relev retain inadequ control process facil system common sec fail op
+    environ transfer develop op stag impact rely apply
+- id: 12.1.3
+  name: Capacity management
+  text: control resourc monit tun project fut capac requir ens requir perform lmplementation
+    puid capac requir ident account busy crit concern tun monit apply ens improv avail
+    efficy system detect control tim project fut capac requir account busy requir
+    cur project trend org process cap at paid resourc proc lead tim cost man monit
+    util key resourc ident trend us rel busy apply system man tool man ident avoid
+    pot bottleneck depend key personnel threat sec serv plan act provid sufficy capac
+    achiev increas capac reduc demand exampl man capac demand includ delet obsolet
+    dat disk spac decommit apply system databas environ optim batch process schedules
+    optim apply log databas query deny restrict bandwid resourc hungry serv busy crit
+    video streaming docu capac man plan consid miss crit system control address capac
+    hum resourc off facil
+- id: 12.1.4
+  name: Separation of development, testing and operational environments
+  text: control develop test op environ sep reduc risk unauth access op environ lmplementation
+    puid level sep op test develop environ prev op ident impl item consid rul transf
+    softw develop op stat defin docu develop op softw system process domain direct
+    op system apply test test stag environ pri apply op system exceiv circumst test
+    op system compil edit develop tool util access op system requir us us profil op
+    test system men display id mess reduc risk er sensit dat cop test environ equ
+    control test develop test act unw mod fil environ fail maintain stabl environ
+    perform mean test prev inappropry develop access op environ develop test personnel
+    access op introduc unauth untest cod alt op dat system cap misus commit fraud
+    introduc untest malicy cod op develop test personnel pos threat confid op develop
+    test act unintend softw shar comput environ sep develop test op environ desir
+    reduc risk accid chang unauth access op softw busy dat protect dat protect malw
+    object ens process facil protect malw
+- id: 12.2.1
+  name: Controls against malware Control
+  text: detect prev recovery control protect malw impl combin us aw ei nle tatiuod
+    protect malw bas malw detect repair softw sec aw access chang man control guid
+    consid est form policy prohibit unauth softw impl control prev detect unauth softw
+    apply whitel impl control prev detect suspect malicy websit blackl est form policy
+    protect risk obtain fil softw extern network med ind protect meas reduc vuln exploit
+    malw techn vuln man conduc regul review softw dat cont system support crit busy
+    process pres unapprov fil unauth amend form investig instal regul upd malw detect
+    repair softw scan comput med precaut control routin bas scan carry includ
+- id: 12.3.1
+  name: Information backup
+  text: control backup cop softw im test regul agree backup policy impl euid backup
+    policy est defin org requir backup softw system backup policy defin ret protect
+    requir adequ backup facil ens ess softw recov disast med fail design backup plan
+    item consid acc complet record backup cop docu rest proc produc ext diff backup
+    frequ backup reflect busy requir org sec requir involv crit continu op org backup
+    stor remot loc sufficy dist escap dam disast main backup level phys environ protect
+    claus consist standard apply main backup med regul test ens rely emerg combin
+    rest proc check rest tim requir test abl rest dat perform ded med overwrit origin
+    med backup rest process fail irrep dat dam loss situ confid ofimport backup protect
+    encrypt op proc monit execut backup address fail scheduled backup ens complet
+    backup backup policy backup arrang individ system serv regul test ens meet requir
+    busy continu plan crit system serv backup arrang cov system apply dat recov complet
+    ev disast ret period ess busy determin account requir arch cop perm retain log
+    monit object record ev gen evid
+- id: 12.4.1
+  name: Event logging
+  text: control ev log record us act exceiv fault sec ev produc regul review impl
+    euid ev log includ relev us id act dat tim detail key ev log log dev id loc ident
+    record success reject access attempt record success reject dat resourc access
+    attempt config privileg util apply fil access access network address protocol
+- id: 12.4.2
+  name: Protection of log information
+  text: control log facil log protect tamp unauth access impl guid control aim protect
+    unauth log op log facil includ alt mess typ record log fil edit delet stor capac
+    log fil med excess fail record ev writ record ev audit log requir arch record
+    ret policy requir collect retain evid log volum ext sec monit ident ev sec monit
+    purpos cop mess typ autom log suit util audit tool perform fil interrog rat consid
+    log protect dat mod dat delet ex cre fals sens sec real tim cop log control admin
+    op safeguard log
+- id: 12.4.3
+  name: Administrator and operator logs
+  text: control admin op act log log protect regul review impl puid privileg us account
+    hold manip log process facil direct control protect review log maintain account
+    privileg us intrud detect man control network admin monit network admin act comply
+- id: 12.4.4
+  name: Clock synchronisation Control
+  text: clock relev process system org sec domain synchron singl ref tim sourc impl
+    euid extern intern requir tim repres synchron acc docu requir leg reg contract
+    requir standard comply requir intern monit standard ref tim org defin org approach
+    obtain ref tim extern sourc synchron intern clock rely docu impl correct set clock
+    ens acc audit log requir investig evid leg disciplin inacc audit log hind investig
+    dam cred evid clock link radio tim broadcast nat atom clock mast clock log system
+    network tim protocol serv synchron mast clock control op softw object ens integr
+    op system
+- id: 12.5.1
+  name: Installation of software on operational systems Control
+  text: proc impl control instal softw op system impl puid guidelin consid control
+    softw op system upd op softw apply program libr perform train admin man auth op
+    system hold approv execut cod develop cod compil apply op softw impl extend success
+    test test cov us sec effect system us friend carry sep system ens program sourc
+    libr upd config control control impl softw docu rollback strategy impl audit log
+    maintain upd op program libr prevy vert apply softw retain cont meas vert softw
+    arch requir paramet proc config detail support softw dat retain arch vend supply
+    softw op system maintain level support supply tim softw vend ceas support vert
+    softw org risk rely unsupport softw decid upgrad releas account busy requir chang
+    sec releas introduc sec funct sev sec vert softw patch apply remov reduc sec weak
+    phys log access supply support purpos man approv supply act monit softw rely extern
+    supply softw mod monit control avoid unauth introduc sec weak techn vuln man object
+    prev exploit techn vuln
+- id: 12.6.1
+  name: Management of technical vulnerabilities
+  text: control lnformation techn vuln system tim fash org expos vuln evalu meas address
+    risk impl puid cur complet inv asset claus prerequisit effect techn vuln man spec
+    support techn vuln man includ softw vend vert cur deploy softw instal system person
+    org respons softw tim act respons id pot techn vuln guid est effect man process
+    techn vuln org defin est rol respons techn vuln man includ vuln monit vuln risk
+    assess patch asset track coordin respons requir resourc ident relev techn vuln
+    maintain aw ident softw technolog bas asset inv list resourc upd bas inv resourc
+    timelin defin react not relev techn vuln pot techn vuln ident org ident risk act
+    act involv patch vuln system apply control depend urg techn vuln address act carry
+    control chang man sec incid respons proc patch legitim sourc risk instal patch
+    assess risk pos vuln comp risk instal patch patch test evalu instal ens effect
+    result effect tol patch control consid
+- id: 12.6.2
+  name: Restrictions on software installation Control
+  text: rul govern instal softw us est impl lmplementation puid org defin enforc strict
+    policy typ softw us instal principl privileg apply grant privileg us abl instal
+    softw org ident typ softw instal permit upd sec patch ex softw typ instal prohibit
+    softw person softw pedigr regard malicy unknown suspect privileg grant regard
+    rol us concern uncontrol instal softw comput dev lead introduc vuln leak loss
+    integr sec incid viol intellect property right system audit consid object minim
+    impact audit act op system
+- id: 12.7.1
+  name: Information systems audit controls
+  text: control audit requir act involv ver op system car plan agree minim disrupt
+    busy process impl puid guidelin observ audit requir access system dat agree man
+    scop techn audit test agree control audit test limit read access softw dat access
+    read allow isol cop fil eras audit complet protect oblig fil audit docu requir
+    requir spec addit process ident agree audit test affect avail busy hour access
+    monit log produc ref trail
+- id: 13.1.1
+  name: Network controls Control
+  text: network man control protect system apply ei nle tatiuo control impl ens sec
+    network protect connect serv unauth access item consid respons proc man network
+    equip est op respons network sep op spec control est safeguard confid integr dat
+    pass publ network wireless network protect connect system apply claus spec control
+    requir maintain avail network serv comput connect log monit apply en record detect
+    act affect relev sec man act clos coordin optim serv org ens control consist apply
+    process infrastruct system network auth system connect network restrict
+- id: 13.1.2
+  name: Security of network services
+  text: control sec mech serv level man requir network serv ident includ network serv
+    agr serv hous outsourc impl guid abl network serv provid man agree serv sec determin
+    regul monit audit agree sec arrang serv sec feat serv level man requir ident org
+    ens network serv provid impl meas network serv includ provid connect priv network
+    serv network man network sec solv firewal intrud detect system serv rang simpl
+    unm bandwid complex off sec feat network serv technolog apply sec network serv
+    auth encrypt network connect control techn paramet requir sec connect network
+    serv sec network connect rul proc network serv us restrict access network serv
+    apply
+- id: 13.1.3
+  name: Segregation in networks
+  text: control serv us system segreg network impl puid method man sec network divid
+    sep network domain domain chos bas trust level publ access domain desktop domain
+    serv domain org unit hum resourc fin market combin serv domain connect multipl
+    org unit segreg phys network log network virt priv network perimet domain defin
+    access network domain allow control perimet gateway firewal filt rout criter segreg
+    network domain access allow gateway bas assess sec requir domain assess access
+    control policy access requir class process account rel cost perform impact incorp
+    suit gateway technolog wireless network requir spec tre defin network perimet
+    sensit environ consid tre wireless access extern connect segreg access intern
+    network access pass gateway network control policy grant access intern system
+    auth encrypt us level network access control technolog modern standard bas wireless
+    network sufficy direct connect org intern network prop impl network extend org
+    bound busy partn form requir interconnect shar process network facil extend increas
+    risk unauth access org system network requir protect network us sensit crit transf
+    object maintain sec transfer org extern ent
+- id: 13.2.1
+  name: Information transfer policies and procedures
+  text: control form transf policy proc control protect transf typ commun facil impl
+    guid proc control commun facil transf item proc design protect transfer interceiv
+    cop mod mis rout destruct proc detect protect malw transmit electron commun proc
+    protect commun sensit electron form attach policy guidelin outlin acceiv commun
+    facil personnel extern party us respons comprom org defam harass imperson forward
+    chain let unauth purchas cryptograph techn protect confid integr auth claus ret
+    dispos guidelin busy correspond includ mess relev nat loc legisl reg control restrict
+    commun facil autom forward electron mail extern mail address adv personnel precaut
+    rev confid leav mess confid answ machin replay unauth person stor commun system
+    stor incorrect result misdial adv personnel facsimil machin serv
+- id: 13.2.2
+  name: Agreements on information transfer
+  text: control agr address sec transf busy org extern party lmplementation puid transf
+    agr incorp man respons control not transmit dispatch receipt proc ens trac repudy
+    minim techn standard pack transmit escrow agr coury id standard respons liabl
+    ev sec incid loss dat agree label sensit crit ens mean label understood appropry
+    protect techn standard record read softw spec control requir protect sensit item
+    cryptograph claus maintain chain custody transit acceiv level access control policy
+    proc standard est maintain protect phys med transit ref transf agr sec cont agr
+    reflect sensit busy involv agr electron man form form contract confid spec mech
+    transf consist org typ agr
+- id: 13.2.3
+  name: Electronic messaging
+  text: control involv electron mess appropry protect impl euid sec consid electron
+    mess includ protect mess unauth access mod den serv commens class scheme org ens
+    correct address transport mess rely avail serv leg consid requir electron sign
+    obtain approv pri extern publ serv inst mess soc network fil shar stronger level
+    auth control access publ access network typ electron mess email electron dat interchang
+    soc network play rol busy commun
+- id: 13.2.4
+  name: Confidentiality or non-disclosure agreements
+  text: control requir confid disclos agr reflect org protect ident regul review docu
+    impl guid confid disclos agr address requir protect confid leg enforc term confid
+    disclos agr appl extern party employ org el select consid typ party permiss access
+    handl confid ident requir confid disclos agr el consid definit protect confid
+    expect dur agr includ confid maintain indefinit requir act agr termin respons
+    act sign avoid unauth disclos own trad secret intellect property rel protect confid
+    permit confid right sign audit monit act involv confid process not report unauth
+    disclos confid leak term return destroy agr cess expect act breach agr bas org
+    sec requir el confid disclos agr confid disclos agr comply appl law reg jurisdict
+    apply requir confid disclos agr review period occ influ requir confidentialityand
+    disclos agr protectorg inform sign respons protect disclos respons auth man org
+    form confid disclos agr circumst
+- id: 14.1.1
+  name: Information security requirements analysis and specification
+  text: control sec requir includ requir system enh ex system impl puid sec requir
+    ident method der comply requir policy reg threat model incid review vuln thresholds
+    id docu review stakehold sec requir control reflect busy involv pot neg busy impact
+    result lack adequ sec ldent man sec requir process integr stag system project
+    consid sec requir design stag lead effect cost efficy solv sec requir level confid
+    requir claim id us der us auth requir access provid auth process busy us privileg
+    techn us inform us op duty respons requir protect asset involv avail confid integr
+    requir der busy process transact log monit repudy requir requir mand sec control
+    interfac log monit dat leak detect system apply provid serv publ network impl
+    transact ded control consid produc acquir form test acquisit process contract
+    supply address ident sec requir sec funct propos produc satisfy requir risk introduc
+    control reconsid pri purchas produc guid sec config produc align fin softw serv
+    stack evalu impl criter acceiv produc defin term funct ass ident sec requir met
+    produc evalu criter acquisit addit funct review ens introduc unacceiv addit risk
+    ident control meet sec requir
+- id: 14.1.2
+  name: Securing application services on public networks
+  text: control involv apply serv pass publ network protect fraud act contract disput
+    unauth disclos mod impl guid sec consid apply serv pass publ network includ level
+    ofconfid party requir claim id auth auth process approv cont issu sign key transact
+    docu ens commun partn inform auth provid serv determin meet requir confid integr
+    proof dispatch receipt key docu repudy contract tend contract process level trust
+    requir integr key docu protect requir confid confid integr transact pay delivery
+    address detail confirm receipt degr ver ver pay supply custom select settl form
+    pay guard fraud level protect requir maintain confid integr avoid loss duply transact
+- id: 14.1.3
+  name: Protecting application services transactions
+  text: control involv apply serv transact protect prev incomplet transmit mis rout
+    unauth mess alt unauth disclos unauth mess duply replay impl guid sec consid apply
+    serv transact includ electron sign party involv transact aspect transact ens
+- id: 14.2.1
+  name: Secure development policy Control
+  text: rul develop softw system est apply develop org impl euid sec develop requir
+    build sec serv architect softw sec develop policy aspect consid sec develop environ
+    guid sec softw develop lifecyc
+- id: 14.2.2
+  name: System change control procedures
+  text: control system develop lifecyc control form chang control proc impl euid form
+    chang control proc docu enforc ens integr apply produc design stag subsequ maint
+    effort introduc system maj ex system follow form process docu spec test qual control
+    man impl process includ risk assess analys impact spec sec control process ens
+    ex sec control proc comprom support program access form agr approv chang pract
+    apply op chang control proc integr chang control proc includ limit maintain record
+    agree auth level ens submit auth us review control integr proc ens comprom ident
+    softw databas ent hardw requir amend ident checkingsec crit cod minim lik securityweak
+    obtain form approv detail propos com ens auth us acceiv pri impl ens docu set
+    upd complet chang docu arch dispos maintain vert control softw upd maintain audit
+    trail chang request ens op docu us proc chang remain ens impl tak tim disturb
+    busy process involv chang softw impact op environ vic vers pract includ test softw
+    environ segreg produc develop environ control softw allow addit protect op test
+    purpos includ patch serv pack upd autom upd consid risk integr avail weigh benefit
+    speedy deploy upd autom upd crit system upd crit apply fail
+- id: 14.2.3
+  name: Technical review of applications after operating platform changes
+  text: control op platform chang busy crit apply review test ens advers impact org
+    op sec impl suid process cov review apply control integr proc ens comprom op platform
+    ens not op platform tim test review impl ens busy continu plan claus op platform
+    includ op system databas middlew platform control apply apply
+- id: 14.2.4
+  name: Restrictions on changes to software packages
+  text: control mod softw pack disco limit strictly control impl suid pract vend supply
+    softw pack mod softw pack mod consid risk built control integr process comprom
+    cons vend poss obtain requir vend standard program upd impact org respons fut
+    maint softw result compat softw origin softw retain apply design softw upd man
+    process impl ens approv patch apply upd instal auth softw
+- id: 14.2.5
+  name: Secure system engineering principles
+  text: control principl engin sec system est docu maintain apply impl effort impl
+    euid sec engin proc bas sec engin principl est docu apply hous engin act sec design
+    architect lay busy dat apply technolog bal sec access technolog analys sec risk
+    design review attack pattern principl est engin proc regul review ens effect contribut
+    enh standard sec engin process regul review ens remain term comb pot threats remain
+    appl adv technolog solv apply est sec engin principl apply appl outsourc system
+    contract bind agr org supply org outsourc org confirm rigo supply sec engin principl
+    comp apply develop proc apply sec engin techn develop apply input output interfac
+    sec engin techn provid guid us auth techn sec sess control dat valid sanit elimin
+    debug cod
+- id: 14.2.6
+  name: Secure development environment
+  text: control org est appropry protect sec develop environ develop integr effort
+    cov entir develop lifecyc impl puid sec develop environ includ peopl process technolog
+    develop integr org assess risk individ develop effort est sec develop environ
+    spec develop effort sensit dat process stor transmit appl extern intern requir
+    reg policy sec control impl org support develop trustworthy personnel environ
+    degr outsourc develop segreg develop environ control access develop environ monit
+    chang environ cod stor backup stor sec offsit loc control mov dat environ level
+    protect determin spec develop environ org docu process sec develop proc provid
+    individ
+- id: 14.2.7
+  name: Outsourced development
+  text: control org superv monit act outsourc develop impl euid develop outsourc consid
+    org entir extern supply chain licens arrang cod own intellect property right outsourc
+    cont contract requir sec design cod test pract provid approv threat model extern
+    develop acceiv test qual acc del provid evid sec thresholds est minim acceiv level
+    sec priv qual provid evid sufficy test apply guard abs int unint malicy cont delivery
+    provid evid sufficy test apply guard pres vuln escrow arrang sourc cod contract
+    audit develop process control effect docu build environ cre del org remain respons
+    comply appl law control efficy ver
+- id: 14.2.8
+  name: System security testing
+  text: control test sec funct carry develop impl suid upd system requir test ver
+    develop process includ prep detail schedule act input expect output rang condit
+    hous develop test init perform develop team independ acceiv test undertak hous
+    outsourc develop ens expect expect ext test proport nat
+- id: 14.2.9
+  name: System acceptance testing
+  text: control acceiv test program criter est system upgrad vert impl euid acceiv
+    test includ test sec requir adh sec develop pract test conduc receiv compon integr
+    system org lev autom tool cod analys tool vuln scan ver remedy sec defect test
+    perform real environ ens introduc vuln org environ test rely dat object ens protect
+    dat test
+- id: 14.3.1
+  name: Protection of test data
+  text: control dat select car protect control impl euid op dat person ident confid
+    test purpos avoid person ident confid test purpos sensit guidelin apply protect
+    op dat test purpos access control proc apply op apply system apply apply system
+    sep auth tim op cop environ op eras environ test complet cop op log provid audit
+    trail acceiv test requir subst volum dat clos op dat
+- id: 15.1.1
+  name: Information security policy for supplier relationships
+  text: control sec requir mitig risk supply access org asset agree supply docu impl
+    puid org ident mand sec control address supply access org policy control address
+    process proc impl org process proc org requir supply impl includ ident docu typ
+    supply serv log util fin serv infrastruct compon org access standard process lifecyc
+    man supply rel defin typ access typ supply allow monit control access minim sec
+    requir typ typ access serv bas individ supply agr bas org busy requir risk profil
+    process proc monit adh est sec requir typ supply typ access includ party review
+    produc valid acc complet control ens integr process party typ oblig appl supply
+    protect org handl incid cont supply access includ respons org supply resy recovery
+    cont arrang ens avail process party aw train org personnel involv acquisit appl
+    policy process proc aw train org personnel interact supply personnel rul eng behavio
+    bas typ supply level supply access org system condit sec requir control docu agr
+    sign party man transit process facil mov ens sec maintain transit period risk
+    supply inadequ sec man control ident apply admin supply access process facil spec
+    confid disclos agr dat protect risk supply agr involv transf access bord org aw
+    leg contract respons protect remain org
+- id: 15.1.2
+  name: Addressing security within supplier agreements
+  text: control relev sec requir est agree supply access process stor commun provid
+    infrastruct compon org impl guid supply agr est docu ens misunderstand org supply
+    party oblig fulfil relev sec requir term consid includ agr satisfy ident sec requir
+    describ access method provid access class org class scheme map org class scheme
+    class scheme supply leg reg requir includ dat protect intellect property right
+    copyright describ ens met oblig contract party impl agree set control includ access
+    control perform review monit report audit rul acceiv includ unacceiv explicit
+    list supply personnel auth access receiv org proc condit auth remov auth access
+    receipt org supply personnel sec policy relev spec contract incid man requir proc
+    not collab incid remedy train aw requir spec proc sec requir incid respons auth
+    proc relev reg contract includ control impl relev agr partn includ contact person
+    sec issu
+- id: 15.1.3
+  name: Information and communication technology supply chain
+  text: control agr supply includ requir address sec risk commun technolog serv produc
+    supply chain impl euid top consid includ supply agr supply chain sec defin sec
+    requir apply commun technolog produc serv acquisit addit sec requir supply rel
+    commun technolog serv requir supply prop org sec requir supply chain supply subcontract
+    commun technolog serv org commun technolog produc requir supply prop sec pract
+    supply chain produc includ compon purchas supply impl monit process acceiv method
+    valid del commun technolog produc serv adh stat sec requir impl process ident
+    produc serv compon crit maintain funct requir increas at scrutiny built org tier
+    supply outsourc aspect produc serv compon supply obtain ass crit compon origin
+    trac supply chain obtain ass del commun technolog produc funct expect unexpect
+    unw feat defin rul shar supply chain pot issu comprom org supply impl spec process
+    man commun technolog compon lifecyc avail sec risk includ man risk compon supply
+    busy supply provid compon technolog adv spec commun technolog supply chain risk
+    man pract built sec qual project man engin pract replac org adv supply understand
+    commun technolog supply chain mat impact produc serv org influ commun technolog
+    supply chain sec pract agr supply mat address supply commun technolog supply chain
+    commun technolog supply chain address includ cloud comput serv supply serv delivery
+    man object maintain agree level sec serv delivery pli agr
+- id: 15.2.1
+  name: Monitoring and review of supplier services
+  text: control org regul monit review audit supply serv delivery lmplementation puid
+    monit review supply serv ens sec term condit agr adh sec incid man prop involv
+    serv man rel process org supply monit serv perform level ver adh agr review serv
+    report produc supply arrang regul progress meet requir agr conduc audit supply
+    conjunct review independ audit report follow issu ident provid sec incid review
+    requir agr support guidelin proc review supply audit trail record sec ev op fail
+    trac fault disrupt serv del resolv man ident review sec aspect supply rel supply
+    ens supply maintain sufficy serv cap work plan design ens agree serv continu level
+    maintain maj serv fail disast claus respons man supply rel assign design individ
+    serv man team addit org ens supply assign respons review comply enforc requir
+    agr sufficy techn skil resourc monit requir agr sec requir met act deficy serv
+    delivery observ org retain sufficy control vis sec aspect sensit crit process
+    facil access process man supply org retain vis sec act chang man id vuln sec incid
+    report respons defin report process
+- id: 15.2.2
+  name: Managing changes to supplier services Control
+  text: provid serv supply includ maintain improv ex sec policy proc control man account
+    crit busy system process involv assess risk impl euid aspect consid supply agr
+    org impl
+- id: 16.1.1
+  name: Responsibilities and procedures
+  text: control man respons proc est ens quick effect ord respons sec incid impl euid
+    guidelin man respons proc regard sec incid man consid man respons est ens proc
+    develop commun adequ org
+- id: 16.1.2
+  name: Reporting information security events
+  text: control lnformation sec ev report man channel impl puid employ contract aw
+    respons report sec ev aw proc report sec ev contact ev report situ consid sec
+    ev report includ ineffect sec control breach integr confid avail expect hum er
+    comply policy guidelin breach phys sec arrang uncontrol malfunct softw hardw access
+    viol malfunct anom behavio ind sec attack act sec breach report sec ev
+- id: 16.1.3
+  name: Reporting information security weaknesses
+  text: control employ contract org system serv requir not report observ suspect sec
+    weak system serv impl euid employ contract report mat contact prev sec incid report
+    mech easy access employ contract adv attempt prov suspect sec weak test weak interpret
+    pot misus dam serv result leg liabl individ perform test
+- id: 16.1.4
+  name: Assessment of and decision on information security events Control
+  text: sec ev assess decid class sec incid impl euid contact assess sec ev agree
+    sec ev incid class scal decid ev class sec incid class priorit incid ident impact
+    ext incid org sec incid respons team isirt assess decid forward isirt confirm
+    reassess assess decid record purpos fut ref ver
+- id: 16.1.5
+  name: Response to information security incidents
+  text: control sec incid respond docu proc impl puid lnformation sec incid respond
+    nomin contact relev person org extern party respons includ collect evid occur
+    conduc sec forens analys requir esc requir ens involv respons act prop log analys
+    commun ex sec incid relev detail intern extern peopl org deal sec weak contribut
+    incid incid dealt form clos record post incid analys ident sourc incid goal incid
+    respons resum norm sec level in recovery
+- id: 16.1.6
+  name: Learning from information security incidents
+  text: control knowledg gain analys resolv sec incid reduc lik impact fut incid impl
+    euid mech en typ volum cost sec incid quant monit gain evalu sec incid ident recur
+    impact incid evalu sec incid enh addit control limit frequ dam cost fut occur
+    account sec policy review process car confid aspect anecdot act sec incid us aw
+    train exampl hap respond incid avoid fut
+- id: 16.1.7
+  name: Collection of evidence
+  text: control org defin apply proc id collect acquisit preserv serv evid impl puid
+    intern proc develop deal evid purpos disciplin leg act proc evid provid process
+    id collect acquisit preserv evid typ med dev stat dev pow proc account chain custody
+    saf evid saf personnel rol respons personnel involv compet personnel docu brief
+    cert relev qual personnel tool sought strengthen preserv evid forens evid transcend
+    org jurisdict bound ens org entitl collect requir forens evid requir jurisdict
+    consid maxim chant admit relev jurisdict id process involv search recognit docu
+    pot evid collect process gath phys item pot evid acquisit process cre dat defin
+    set preserv process maintain safeguard integr origin condit pot evid sec ev detect
+    obvy ev result court act dang ex evid destroy int accid sery incid real adv involv
+    lawy pol contempl leg act adv evid requir digit evid
+- id: 17.1.1
+  name: Planning information security continuity
+  text: control org determin requir sec continu sec man advers situ cris disast impl
+    puid org determin continu sec capt busy continu man process disast recovery man
+    process sec requir determin plan busy continu disast recovery abs form busy continu
+    disast recovery plan sec man assum sec requir remain advers situ comp norm op
+    condit altern org perform busy impact analys sec aspect determin sec requir appl
+    advers situ reduc tim effort addit busy impact analys sec recommend capt sec aspect
+    norm busy continu man disast recovery man busy impact analys imply sec continu
+    requir explicit form busy continu man disast recovery man process
+- id: 17.1.2
+  name: Implementing information security continuity
+  text: control org est docu impl maintain process proc control ens requir level continu
+    sec advers situ lmplementation puid org ens adequ man structure prep mitig respond
+    disrupt ev personnel auth expery compet incid respons personnel respons auth compet
+    man incid maintain sec nomin docu plan respons recovery proc develop approv detail
+    org man disrupt ev maintain sec predetermin level bas man approv sec continu object
+    sec continu requir org est docu impl maintain sec control busy continu disast
+    recovery process proc support system tool process proc impl maintain ex sec control
+    advers situ compens control sec control maintain advers situ context busy continu
+    disast recovery spec process proc defin handl process proc ded system support
+    protect org involv sec spec est impl maintain busy continu disast recovery process
+    proc sec control impl continu op advers situ sec control continu sec control est
+    impl maintain maintain acceiv level sec
+- id: 17.1.3
+  name: Verify, review and evaluate information security continuity
+  text: control org ver est impl sec continu control regul interv ens valid effect
+    advers situ impl guid org techn proc process op continu context lead sec continu
+    requir continu process proc control sec review chang requir org ver sec man continu
+    exerc test funct sec continu process proc control ens consist sec continu object
+    exerc test knowledg routin op sec continu process proc control ens perform consist
+    sec continu object review valid effect sec continu meas system sec process proc
+    control busy continu man disast recovery man process solv chang ver sec continu
+    control sec test ver perform test pref integr ver sec continu control org busy
+    continu disast recovery test redund object ens avail process facil
+- id: 17.2.1
+  name: Availability of information processing facilities
+  text: control process facil impl redund sufficy meet avail requir impl euid org
+    ident busy requir avail system avail guarantee ex system architect redund compon
+    architect consid appl redund system test ens failov compon compon intend impl
+    redund introduc risk integr confid system consid design system
+- id: 18.1.1
+  name: Identification of applicable legislation and contractual requirements Control
+  text: relev legisl statut reg contract requir org approach meet requir explicit
+    ident docu org impl euid spec control individ respons meet requir defin docu man
+    ident legisl appl org meet requir typ busy org conduc busy country man comply
+    relev country
+- id: 18.1.2
+  name: Intellectual property rights
+  text: control proc impl ens comply legisl reg contract requir intellect property
+    right propriet softw produc impl euid guidelin consid protect mat consid intellect
+    property publ intellect property right comply policy defin leg softw produc acquir
+    softw reput sourc ens copyright viol maintain aw policy protect intellect property
+    right not int disciplin act personnel breach maintain asset reg ident asset requir
+    protect intellect property right maintain proof evid own lic mast disk man impl
+    control ens maxim us permit lic excess carry review auth softw licens produc instal
+    provid policy maintain lic condit provid policy dispos transfer softw comply term
+    condit softw publ network duply convert form extract commerc record film audio
+    permit copyright law cop book artic report docu permit copyright law intellect
+    property right includ softw docu copyright design right trademark pat sourc cod
+    lic propriet softw produc supply lic agr spec lic term condit limit produc machin
+    limit cop cre backup cop aw intellect property right commun staff softw develop
+    org legisl reg contract requir restrict cop propriet mat requir mat develop org
+    licens develop org copyright infr lead leg act involv fin crimin process
+- id: 18.1.3
+  name: Protection of records
+  text: "control record protect loss destruct fals unauth access unauth releas legisl\
+    \ reg contract busy requir impl guid decid protect spec org record class bas org\
+    \ class scheme consid record categ record typ account record databas record transact\
+    \ log audit log op proc detail ret period typ allow stor med pap microfich magnet\
+    \ opt cryptograph program encrypt arch digit sign claus stor en decrypt record\
+    \ tim record retain consid poss detery med stor record stor handl proc impl manufact\
+    \ recommend electron stor med chos proc ens abl access dat med form read ret period\
+    \ est safeguard loss fut technolog chang dat stor system chos requir dat retriev\
+    \ acceiv timefram form depend requir fulfil stor handl ens id record ret period\
+    \ defin nat reg legisl reg appl permit destruct record period org meet record\
+    \ safeguard object step org guidelin issu ret stor handl dispos record ret schedule\
+    \ drawn ident record period tim retain inv sourc key maintain record sec retain\
+    \ meet statut reg contract requir support ess busy act exampl includ record requir\
+    \ evid org op statut reg rul ens def pot civil crimin act confirm fin stat org\
+    \ sharehold extern party audit nat law reg set tim period dat cont ret ftlr th\xA3\
+    \ iflform tioft bollt mafl giftg org ftizatiofl cord caft fotlnd iso"
+- id: 18.1.4
+  name: Privacy and protection of personally identifiable information
+  text: control priv protect person ident ens requir relev legisl reg appl impl guid
+    org dat policy priv protect person ident develop impl policy commun person involv
+    process person ident comply policy relev legisl reg protect priv peopl protect
+    person ident requir man structure control achiev appoint of person respons priv
+    off provid guid man us serv provid individ respons spec proc respons handl person
+    ident ens aw priv principl dealt relev legisl reg techn org meas protect person
+    ident impl commun technolog system country introduc legisl plac control collect
+    process transmit person ident liv individ ident depend respect nat legisl control
+    impos duty collect process dissemin person ident restrict abl transf person ident
+    country
+- id: 18.1.5
+  name: Regulation of cryptographic controls
+  text: control cryptograph control comply relev agr legisl reg lmplementation puid
+    item beconsid comply relev agr law reg restrict import export hardw softw perform
+    cryptograph funct restrict import export hardw softw design cryptograph funct
+    restrict us encrypt mand discret method access country auth encrypt hardw softw
+    provid confid cont leg adv sought ens comply relev legisl reg encrypt cryptograph
+    control mov jurisdict bord leg adv sec review object ens sec impl op org policy
+    proc
+- id: 18.2.1
+  name: Independent review of information security Control
+  text: org approach man sec impl control object control policy process proc sec review
+    independ plan interv occ impl suid man in independ review independ review ens
+    continu suit adequ effect org approach man sec review includ assess opportun improv
+    approach sec includ policy control object review carry individ independ review
+    intern audit funct independ man extern party org spec review individ carry review
+    skil expery independ review record report man in review record maintain independ
+    review ident org approach impl man sec inadequ docu object requir met comply direct
+    sec stat sec policy man correct act guidelin audit sec control provid guid carry
+    independ review
+- id: 18.2.2
+  name: Compliance with security policies and standards
+  text: control man regul review comply process proc respons sec policy standard sec
+    requir impl euid man ident review sec requir defin policy standard appl reg met
+    autom meas report tool consid efficy regul review comply result review man ident
+    comply evalu act achiev comply impl correct act review correct act ver effect
+    ident deficy weak review correct act carry man record record maintain man report
+    person carry independ review independ review tak respons op monit cov
+- id: 18.2.3
+  name: Technical compliance review
+  text: control system regul review comply org sec policy standard lmplementation
+    puid techn comply review pref assist autom tool gen techn report subsequ interpret
+    techn spec altern man review support softw tool expery engin perform penet test
+    vuln assess caut exerc act lead comprom sec test plan docu rep techn comply review
+    carry compet auth person supervid person techn comply review involv examin op
+    system ens hardw softw control correct impl typ comply review requir spec techn
+    expert comply review cov penet test vuln assess carry independ expert contract
+    purpos detect vuln inspect effect control prev unauth access vuln penet test vuln
+    assess provid snapshot spec spec tim snapshot limit port test penet attempt penet
+    test vuln assess substitut risk assess
